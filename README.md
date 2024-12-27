@@ -1,6 +1,8 @@
 # US-Health-Insurance-Data-science-Project
 Insurance Premium Charges in the US with important details for risk underwriting.
 
+![Alt Text](https://github.com/OssFad/US-Health-Insurance-Data-science-Project/blob/main/zBlue%20and%20White%20Modern%20Family%20Insurance.png)
+
 ## Context:
 The venerable insurance industry is no stranger to data-driven decision-making. Yet in today's rapidly transforming digital landscape, Insurance is struggling to adapt and benefit from new technologies compared to other industries, even within the BFSI sphere (compared to the Banking sector for example.) Extremely complex underwriting rule sets that are radically different in different product lines, many non-KYC environments with a lack of centralized customer information base, complex relationships with consumers in traditional risk underwriting where sometimes customer centricity runs reverse to business profit, inertia of regulatory compliance - are some of the unique challenges faced by Insurance Business.
 
