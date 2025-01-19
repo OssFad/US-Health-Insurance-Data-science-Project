@@ -1,7 +1,7 @@
 # US-Health-Insurance-Data-science-Project
 Insurance Premium Charges in the US with important details for risk underwriting.
 
-![Alt Text](https://github.com/OssFad/US-Health-Insurance-Data-science-Project/blob/main/zBlue%20and%20White%20Modern%20Family%20Insurance.png)
+
 
 <p align="center">
   <img src="https://github.com/OssFad/US-Health-Insurance-Data-science-Project/blob/main/zBlue%20and%20White%20Modern%20Family%20Insurance.png" alt="Logo" width="600">
